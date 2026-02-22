@@ -1,0 +1,7 @@
+#.gitignore
+#src/test/resources/META-INF
+.DS_Store
+.idea/
+target
+.allure
+qa-automation-playwright-testng.iml
